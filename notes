@@ -3,5 +3,5 @@ un autre dimanche..
 http.favicon.hash:907215104
 
 - env leak
-- unauth arbitratry leak
+- unauth arbitratry file read
 - unauth RCE
